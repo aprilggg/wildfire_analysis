@@ -1,4 +1,7 @@
 # Wildfire Analysis for Lawton, OK
+Summers in the western United States are increasingly marked by wildfires, with smoke stretching across multiple states. Proposed causes include climate change, U.S. Forestry policy, and heightened awareness, among others. Regardless of the origin, the impact of wildland fires is extensive, with a growing body of research highlighting their negative effects on health, tourism, property, and various societal aspects.
+
+This project entails an analysis of wildfire impacts on a specific U.S. city: Lawton, OK. The ultimate objective is to provide insights that can inform policy makers, city managers, city councils, and other civic institutions in developing informed plans. These plans should address whether and how to mitigate future impacts stemming from wildfires.
 
 ## Part 1: Common Analysis
 ### Objective
